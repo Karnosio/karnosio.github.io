@@ -1,6 +1,3 @@
-let counter = 0;
-let scrolling = false;
-
 function play_sound(sound_name) {
     let audio = new Audio();
     audio.preload = 'auto';
